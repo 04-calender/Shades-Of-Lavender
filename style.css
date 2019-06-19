@@ -1,0 +1,42 @@
+h1{
+  color: white;
+  text-align: center;
+  background-color: #A393BF;
+  margin-left: 400px;
+  margin-right: 400px;
+  border: 5px soild lavender
+
+}
+img{
+  border-radius: 10%;
+ height: 30%;
+ width:30%;
+ padding-left: 30px;
+
+
+
+
+
+}
+
+body{
+  background-image: url("palace.jpg");
+    border: 5px solid lavender
+
+}
+
+
+@media screen and (max-width:700px){
+  img{
+    width: 95%;
+    height: 95%;
+  }
+}
+
+h3{
+  text-align:center;
+  background-color: #A393BF;
+  margin-left: 600px;
+  margin-right: 600px;
+  color: white
+}
